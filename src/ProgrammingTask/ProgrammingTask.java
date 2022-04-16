@@ -11,6 +11,7 @@ import java.util.*;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 import Exception.RequiredFieldsMissingException;
+///// jakies tam zmiany
 
 public class ProgrammingTask implements Serializable {
 
